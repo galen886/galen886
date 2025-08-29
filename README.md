@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 ## 🎧 listening to:
 ![Last.fm](https://lastfm-recently-played.vercel.app/api?user=jeffrey48120715&width=300)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/egogsczm7qcpk3awhes44j6b2)
