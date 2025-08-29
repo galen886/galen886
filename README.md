@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im lazy but i will still do it 👍
 
+listening to:
+## 🎧 Last.fm
+![Last.fm](https://lastfm-recently-played.vercel.app/api?user=jeffrey48120715&width=300)
