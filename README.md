@@ -1,9 +1,5 @@
 ## hellooo 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I'm currently working on trying to make a personal website
 - 🌱 I'm currently learning HTML / CSS and probably JavaScript later...
 - 👯 I'm looking to collaborate on anything involving HTML or CSS
